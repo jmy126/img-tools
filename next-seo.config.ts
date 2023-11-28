@@ -9,7 +9,7 @@ export const defaultSeo = {
   titleTemplate: '%s - Image Tools',
   description,
   defaultTitle: 'Free Online Image Converter',
-  canonical: 'https://img-tools.vercel.app',
+  canonical: 'https://imgtools.28apk.com',
   additionalLinkTags: [
     {
       rel: 'icon',
@@ -20,12 +20,12 @@ export const defaultSeo = {
     title,
     description,
     site_name: 'Image Tools',
-    url: 'https://img-tools.vercel.app',
+    url: 'https://imgtools.28apk.com',
     type: 'website',
     locale: 'en_US',
     images: [
       {
-        url: 'https://img-tools.vercel.app/home.png',
+        url: 'https://imgtools.28apk.com/home.png',
         width: 1920,
         height: 960,
         type: 'image/png',
