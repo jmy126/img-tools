@@ -2,17 +2,37 @@ import { IconCode } from '@tabler/icons-react';
 
 const links = [
   {
-    href: 'https://github.com/iswilljr/img-tools',
+    href: 'https://28apk.com/',
+    label: 'Source Code',
+    icon: IconCode,
+  },
+    {
+    href: 'https://28apk.com/jstools',
+    label: 'Source Code',
+    icon: IconCode,
+  },
+    {
+    href: 'https://28apk.com/pdfconverter/',
     label: 'Source Code',
     icon: IconCode,
   },
   {
-    href: 'https://github.com/iswilljr',
+    href: 'https://28apk.com/hashtools/',
+    label: 'Source Code',
+    icon: IconCode,
+  },
+  {
+    href: 'https://tools.28apk.com',
+    label: 'Source Code',
+    icon: IconCode,
+  },
+  {
+    href: 'https://github.com/jmy126',
     label: 'Github',
     icon: GithubIcon,
   },
   {
-    href: 'https://twitter.com/iswilljr',
+    href: 'https://twitter.com/jmy126',
     label: 'Twitter',
     icon: TwitterIcon,
   },
